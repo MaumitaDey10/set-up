@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "insurance"
+  "defaultProject": "insurance",
+  "cli": {
+    "analytics": "e17a4fbe-2759-4118-9403-d615adede2ad"
+  }
 }
